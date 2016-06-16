@@ -1,0 +1,25 @@
+{
+  "name": "algorithm",
+  "version": "0.0.1",
+  "description": "算法学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyadam/algorithm.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "luckyadam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckyadam/algorithm/issues"
+  },
+  "homepage": "https://github.com/luckyadam/algorithm#readme",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
